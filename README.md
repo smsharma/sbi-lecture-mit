@@ -5,6 +5,8 @@
 
 A gentle introduction to some neural simulation-based inference methods. Jupyter notebook to go along with a guest lecture for the MIT course 8.16: Data Science in Physics.
 
+## Simulation-based inference
+
 *Simulation-based inference* (SBI) is a powerful class of methods for performing inference in settings where the likelihood is computationally intractable, but simulations can be realized via forward modeling. 
 
 In this lecture we will
@@ -14,3 +16,7 @@ In this lecture we will
 - Introduce the concept of statistical coverage testing and calibration.
 
 As examples, we will look at a simple Gaussian-signal-on-power-law-background ("bump hunt"), where the likelihood is tractable, and a more complicated example of inferring a distribution of point sources, where the likelihood is computationally intractable.
+
+## TODO
+
+- [ ] Add figures
