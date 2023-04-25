@@ -7,7 +7,13 @@ A gentle introduction to some neural simulation-based inference methods. Jupyter
 
 ## Simulation-based inference
 
-*Simulation-based inference* (SBI) is a powerful class of methods for performing inference in settings where the likelihood is computationally intractable, but simulations can be realized via forward modeling. 
+*Simulation-based inference* (SBI) is a powerful class of methods for performing inference in settings where the likelihood is computationally intractable, but simulations can be realized v<!-- TOC -->
+
+- [SBI Lecture/Tutorial](#sbi-lecturetutorial)
+    - [Simulation-based inference](#simulation-based-inference)
+    - [TODO](#todo)
+
+<!-- /TOC -->ia forward modeling. 
 
 In this lecture we will
 - Introduce the notion of an implicit likelihood, and how to leverage it to perform inference;
