@@ -15,6 +15,6 @@ In this lecture we will
 - Build up two common modern _neural_ SBI techniques: neural likelihood-ratio estimation (NRE) and neural posterior estimation (NPE);
 - Introduce the concept of statistical coverage testing and calibration.
 
-![Header image.](assets/header.png)
-
 As examples, we will look at a simple Gaussian-signal-on-power-law-background ("bump hunt"), where the likelihood is tractable, and a more complicated example of inferring a distribution of point sources, where the likelihood is computationally intractable.
+
+![Header image.](assets/header.png)
